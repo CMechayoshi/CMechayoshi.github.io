@@ -1,4 +1,8 @@
-head {
-	border:2px solid; 
-	text-align:center;
+h1 {
+	border: 2px solid; 
+	text-align: center;
 	}
+	
+body {
+	background-color: #4286f4;
+		}
