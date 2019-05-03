@@ -4,10 +4,19 @@ h1 {
 	}
 	
 body {
-	background-color: #8fb1e8;
+	background-image:url('https://steamuserimages-a.akamaihd.net/ugc/920302029523785424/E2D9E45E65D7C2E0EC0C050C3BEFDAA2133DD8D2/');
+	background-repeat: repeat-x;
+	background-color: #111727;
 	padding: 20px;
-	}
+	color: #ffffff;
+}
 		
-p {		
-	
+/* visited link*/
+	a:visited {
+		color: #42f462;
 	}
+	a:link {
+		color: #42f4e2;
+	}	
+	
+	<!-- old color #8fb1e8; -->
