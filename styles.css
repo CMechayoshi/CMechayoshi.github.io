@@ -17,15 +17,16 @@ body {
 	background-repeat: repeat-x;
 	background-color: #111727;
 	padding: 20px;
-	color: #ffffff;
+	color: #e3e5e6;
 }
 		
 /* visited link*/
 	a:visited {
-		color: #42f462;
+		color: #2683ad
 	}
 	a:link {
 		color: #42f4e2;
 	}	
 	
 	<!-- old color #8fb1e8; -->
+<!--- old color white, edited 9/4/19-->
