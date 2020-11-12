@@ -34,5 +34,57 @@ body {
 		color: #42f4e2;
 	}	
 	
+	
+table, th, td {
+	border: 1px solid white;
+	padding: 15px;
+	font-size: 20px;
+}
+
+
+.topnav {
+	background-color:black;
+	overflow: hidden;
+}
+
+.topnav a {
+	float: left;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.topnav a:hover {
+	background-color: red;
+	color: white;
+	
+}
+
+.topnav a:active {
+	background-color: blue;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 	<!-- old color #8fb1e8; -->
 <!--- old color white, edited 9/4/19-->
