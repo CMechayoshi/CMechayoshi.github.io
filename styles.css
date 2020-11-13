@@ -63,7 +63,7 @@ table, th, td {
 }
 
 .topnav a:active {
-	background-color: blue;
+	background-color: #111727;
 	color: white;
 }
 
