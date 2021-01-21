@@ -36,8 +36,8 @@ body {
 	
 	
 table, th, td {
-	border: 1px solid white;
-	padding: 15px;
+	border: 1px solid grey;
+	padding: 2px;
 	font-size: 20px;
 }
 
