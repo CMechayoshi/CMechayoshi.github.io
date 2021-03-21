@@ -17,21 +17,21 @@ img {
 	margin-right: auto;	
 }
 
-	
+	/*url('https://steamuserimages-a.akamaihd.net/ugc/920302029523785424/E2D9E45E65D7C2E0EC0C050C3BEFDAA2133DD8D2/')*/
 body {
-	background-image:url('https://steamuserimages-a.akamaihd.net/ugc/920302029523785424/E2D9E45E65D7C2E0EC0C050C3BEFDAA2133DD8D2/');
+	background-image: url("images/Smk_title_bg_jpalt.png");
 	background-repeat: repeat-x;
-	background-color: #111727;
+	background-color: #95c5ff;
 	padding: 20px;
-	color: #e3e5e6;
+	color: #000000;
 }
 		
 /* visited link*/
 	a:visited {
-		color: #2683ad
+		color: #5c0d51;
 	}
 	a:link {
-		color: #42f4e2;
+		color: #384cfe;
 	}	
 	
 	
