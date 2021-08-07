@@ -1,6 +1,9 @@
 h1 {
-	border: 2px solid; 
+	border: 7px solid;
+	border-style: groove; 
+	border-color: #1962c2;
 	text-align: center;
+	background-color: #1962c2;
 	}
 	
 p {
@@ -21,7 +24,7 @@ img {
 body {
 	background-image: url("images/Smk_title_bg_jpalt2.png");
 	background-repeat: repeat-x;
-	background-color: #1754a3;
+	background-color: #1962c2;
 	padding: 20px;
 	color: #000000;
 }
@@ -31,7 +34,7 @@ body {
 		color: #5c0d51;
 	}
 	a:link {
-		color: #0086a3;
+		color: #0938b0;
 	}	
 	
 	
