@@ -1,16 +1,46 @@
 h1 {
-	border: 7px solid;
-	border-style: groove; 
-	border-color: #1962c2;
 	text-align: center;
-	background-color: #1962c2;
+	font-family: 'Brush Script MT', cursive;
+	font-size: 40px;
+	}
+
+h3 {
+	
+	font-family: Verdana;
 	}
 	
+h2 {
+	
+	font-family: Verdana;
+	
+	}
+	
+h4	{
+	
+	font-family: Verdana;
+	
+}
+
+button {
+	
+	font-family: Verdana;
+	
+}
+
+a {
+	font-family: Verdana;
+}
+
+
 p {
 		font-size: 20px;
+		font-family: Arial;
 	}
 li	{
-	font-size: 20px;
+	font-family: Arial;
+	font-size: 18px;
+	padding-bottom: 5px;
+	padding-top: 5px;
 }
 
 
@@ -22,26 +52,27 @@ img {
 
 	/*url('https://steamuserimages-a.akamaihd.net/ugc/920302029523785424/E2D9E45E65D7C2E0EC0C050C3BEFDAA2133DD8D2/')*/
 body {
-	background-image: url("images/Smk_title_bg_jpalt2.png");
+	background-image: url("images/Smk_title_bg_jpalt3.png");
 	background-repeat: repeat-x;
-	background-color: #1962c2;
+	background-color: #88b1f7;
 	padding: 20px;
 	color: #000000;
 }
 		
 /* visited link*/
 	a:visited {
-		color: #5c0d51;
+		color: #887ca5;
 	}
 	a:link {
-		color: #0938b0;
+		color: #4564fb;
 	}	
 	
 	
 table, th, td {
-	border: 1px solid grey;
+	border: 1px solid black;
 	padding: 2px;
 	font-size: 20px;
+	border-collapse: collapse;
 }
 
 
@@ -54,9 +85,10 @@ table, th, td {
 	float: left;
 	color: white;
 	text-align: center;
-	padding: 14px 16px;
+	padding: 12px 12px;
 	text-decoration: none;
 	font-size: 17px;
+	font-family: Times New Roman;
 }
 
 .topnav a:hover {
@@ -84,7 +116,7 @@ table, th, td {
 ADD YOUR HIDDEN CONTENT HERE
 </div>
 
-
+#95c5ff
 	
 old color #8fb1e8; 
 old color white, edited 9/4/19 */ 
