@@ -2,22 +2,26 @@ h1 {
 	text-align: center;
 	font-family: 'Brush Script MT', cursive;
 	font-size: 40px;
+	color: #ffffff;
 	}
 
 h3 {
 	
 	font-family: Verdana;
+	color: #ffffff;
 	}
 	
 h2 {
 	
 	font-family: Verdana;
+	color: #ffffff;
 	
 	}
 	
 h4	{
 	
 	font-family: Verdana;
+	color: #ffffff;
 	
 }
 
@@ -35,12 +39,14 @@ a {
 p {
 		font-size: 20px;
 		font-family: Arial;
+		color: white;
 	}
 li	{
 	font-family: Arial;
 	font-size: 18px;
 	padding-bottom: 5px;
 	padding-top: 5px;
+	color: #ffffff;
 }
 
 
@@ -51,10 +57,11 @@ img {
 }
 
 	/*url('https://steamuserimages-a.akamaihd.net/ugc/920302029523785424/E2D9E45E65D7C2E0EC0C050C3BEFDAA2133DD8D2/')*/
+	/* old color 88b1f7 */
 body {
 	background-image: url("images/Smk_title_bg_jpalt3.png");
 	background-repeat: repeat-x;
-	background-color: #88b1f7;
+	background-color: #000000;
 	padding: 20px;
 	color: #000000;
 }
