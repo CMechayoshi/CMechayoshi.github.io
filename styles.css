@@ -1,6 +1,6 @@
 h1 {
 	text-align: center;
-	font-family: 'Brush Script MT', cursive;
+	font-family: 'Times New Roman', serif;
 	font-size: 40px;
 	color: #ffffff;
 	}
@@ -58,6 +58,10 @@ img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;	
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-top: 25px;
 }
 
 	/*url('https://steamuserimages-a.akamaihd.net/ugc/920302029523785424/E2D9E45E65D7C2E0EC0C050C3BEFDAA2133DD8D2/')*/
