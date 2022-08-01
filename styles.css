@@ -41,6 +41,11 @@ p {
 		font-family: Arial;
 		color: white;
 	}
+	
+blockquote {
+		color: white;
+}	
+
 li	{
 	font-family: Arial;
 	font-size: 18px;
