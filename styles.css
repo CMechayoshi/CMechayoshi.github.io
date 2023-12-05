@@ -44,6 +44,8 @@ p {
 	
 blockquote {
 		color: white;
+		font-size: 20px;
+		font-family: Luminari; 
 }	
 
 li	{
