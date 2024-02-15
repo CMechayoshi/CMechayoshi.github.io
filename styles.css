@@ -64,6 +64,14 @@ details {
 	color: #ffffff;
 }
 
+summary {
+	font-family: Arial;
+	font-size: 18px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	color: #ffffff;
+}
+
 tr	{
 	color: #ffffff;
 }
