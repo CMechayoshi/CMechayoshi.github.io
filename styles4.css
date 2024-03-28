@@ -1,0 +1,168 @@
+h1 {
+	text-align: center;
+	font-family: 'Times New Roman', serif;
+	font-size: 40px;
+	color: #ffffff;
+	}
+
+h3 {
+	
+	font-family: Verdana;
+	color: #ffffff;
+	}
+	
+h2 {
+	
+	font-family: Verdana;
+	color: #ffffff;
+	
+	}
+	
+h4	{
+	
+	font-family: Verdana;
+	color: #ffffff;
+	
+}
+
+button {
+	
+	font-family: Verdana;
+	
+}
+
+a {
+	font-family: Verdana;
+}
+
+
+p {
+		font-size: 20px;
+		font-family: Arial;
+		color: black;
+	}
+	
+blockquote {
+		color: white;
+		font-size: 20px;
+		font-family: Luminari; 
+}	
+
+li	{
+	font-family: Arial;
+	font-size: 18px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	color: #ffffff;
+}
+
+details {
+	font-family: Arial;
+	font-size: 18px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	color: #ffffff;
+}
+
+summary {
+	font-family: Arial;
+	font-size: 18px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	color: #ffffff;
+}
+
+tr	{
+	color: #ffffff;
+}
+
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-top: 25px;
+}
+
+
+
+
+body {
+	background-image: url("Additionalphotos/Smk_title_bg_jp.png");
+	background-repeat: repeat-x;
+	background-color: #cfcbb0;
+	padding: 20px;
+	color: #000000;
+}
+		
+/* visited link*/
+	a:visited {
+		color: #887ca5;
+	}
+	a:link {
+		color: #4564fb;
+	}	
+	
+a {
+	font-size: 20px;
+	font-family: Arial;	
+	
+	}
+	
+	
+	
+table, th, td {
+	border: 1px solid black;
+	padding: 2px;
+	font-size: 20px;
+	border-collapse: collapse;
+}
+
+
+.topnav {
+	background-color:black;
+	overflow: hidden;
+}
+
+.topnav a {
+	float: left;
+	color: white;
+	text-align: center;
+	padding: 12px 70px;
+	text-decoration: none;
+	font-size: 17px;
+	font-family: Times New Roman;
+}
+
+.topnav a:hover {
+	background-color: red;
+	color: white;
+	
+}
+
+.topnav a:active {
+	background-color: #111727;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+/* how to spoiler <button title="Click to Show/Hide Content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Show/Hide</button>
+<div id="spoiler" style="display:none">
+ADD YOUR HIDDEN CONTENT HERE
+</div>
+
+#95c5ff
+	
+old color #8fb1e8; 
+old color white, edited 9/4/19 */ 
