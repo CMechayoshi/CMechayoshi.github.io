@@ -94,17 +94,17 @@ img {
 body {
 	background-image: url("Additionalphotos/Smk_title_bg_jpalt2.png");
 	background-repeat: repeat-x;
-	background-color: #000000;
+	background-color: #333333;
 	padding: 20px;
 	color: #000000;
 }
 		
 /* visited link*/
 	a:visited {
-		color: #887ca5;
+		color: #ffffff;
 	}
 	a:link {
-		color: #4564fb;
+		color: #ffffff;
 	}	
 	
 a {
