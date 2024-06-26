@@ -87,6 +87,9 @@ img {
 	padding-top: 25px;
 }
 
+ul {
+  list-style-type: none;
+}
 
 
 	/*url('https://steamuserimages-a.akamaihd.net/ugc/920302029523785424/E2D9E45E65D7C2E0EC0C050C3BEFDAA2133DD8D2/')*/
@@ -151,7 +154,24 @@ table, th, td {
 	color: white;
 }
 
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
 
+.sidebar {
+  border: 3px solid black;
+  padding: 15px;
+}
+
+
+.sidebar {
+  width: 25%;
+  height: 25vh;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
 
 
 
