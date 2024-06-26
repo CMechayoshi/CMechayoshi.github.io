@@ -160,14 +160,14 @@ table, th, td {
 }
 
 .sidebar {
-  border: 1px solid black;
-  padding: 1px;
-  height: 120vh;
+  border: 3px solid black;
+  padding: 30px;
+  height: 150vh;
   position: -webkit-sticky;
   position: sticky;
   overflow-y: scroll;
   top: 10px;
-  max-height: 700px;
+  max-height: 500px;
 }
 
 
