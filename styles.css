@@ -120,6 +120,8 @@ table, th, td {
 	padding: 2px;
 	font-size: 20px;
 	border-collapse: collapse;
+	margin: 0 auto;
+	text-align: center;
 }
 
 
@@ -194,10 +196,7 @@ table, th, td {
   .sidenav a {font-size: 18px;}
 }
 
-.center {
-  margin-left: auto;
-  margin-right: auto;
-}
+
 
 
 
