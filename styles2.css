@@ -31,9 +31,7 @@ button {
 	
 }
 
-a {
-	font-family: Verdana;
-}
+
 
 
 p {
@@ -87,6 +85,7 @@ img {
 	padding-top: 25px;
 }
 
+/*
 
 
 	/*url('https://steamuserimages-a.akamaihd.net/ugc/920302029523785424/E2D9E45E65D7C2E0EC0C050C3BEFDAA2133DD8D2/')*/
@@ -110,11 +109,10 @@ body {
 	}	
 	
 a {
-	font-size: 20px;
+
 	font-family: Arial;	
 	
 	}
-	
 	
 	
 table, th, td {

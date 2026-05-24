@@ -31,10 +31,6 @@ button {
 	
 }
 
-a {
-	font-family: Verdana;
-}
-
 
 p {
 		font-size: 20px;
@@ -108,7 +104,6 @@ body {
 	}	
 	
 a {
-	font-size: 20px;
 	font-family: Arial;	
 	
 	}
