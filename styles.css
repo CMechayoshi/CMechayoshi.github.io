@@ -191,8 +191,17 @@ table, th, td {
   .sidenav a {font-size: 18px;}
 }
 
+.link {
+    display: block;
+    width: 250px;
+    margin: 0 auto;
+}
 
-
+.link2 {
+    display: block;
+    width: 500px;
+    margin: 0 auto;
+}
 
 
 
